@@ -125,12 +125,6 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.9
     },
-    "baggs": {
-        name: "Baggs",
-        name_english: "Baggs",
-        code: "us-wy",
-        relative_radius: 0.5
-    },
     "baker": {
         name: "Baker",
         name_english: "Baker",
@@ -1481,12 +1475,6 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.8
     },
-    "lusk": {
-        name: "Lusk",
-        name_english: "Lusk",
-        code: "us-wy",
-        relative_radius: 0.6
-    },
     "macomb": {
         name: "Macomb",
         name_english: "Macomb",
@@ -2741,9 +2729,6 @@ var city_properties = {
     "austin": {
         relative_whitenoise: 0.95
     },
-    "baggs": {
-        relative_whitenoise: 0.85
-    },
     "baker": {
         relative_radius: 0.5,
         relative_whitenoise: 0.85
@@ -3494,9 +3479,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "lufkin": {
-        relative_whitenoise: 0.95
-    },
-    "lusk": {
         relative_whitenoise: 0.95
     },
     "macomb": {
@@ -4343,14 +4325,6 @@ var cities = [
         "x": "-86680.9",
         "y": "78.1306",
         "z": "-43232.3"
-    },
-    {
-        "gameName": "baggs",
-        "realName": "Baggs",
-        "country": "baggs",
-        "x": "-49498.6",
-        "y": "106.1",
-        "z": "-15309.5"
     },
     {
         "gameName": "baker",
@@ -6417,14 +6391,6 @@ var cities = [
         "z": "42729.5"
     },
     {
-        "gameName": "lusk",
-        "realName": "Lusk",
-        "country": "lusk",
-        "x": "-34607.7",
-        "y": "55.3956",
-        "z": "-23037.9"
-    },
-    {
         "gameName": "macomb",
         "realName": "Macomb",
         "country": "macomb",
@@ -8091,7 +8057,7 @@ var cities = [
     {
         "gameName": "wheatland",
         "realName": "Wheatland",
-        "country": "scottsbluff",
+        "country": "wheatland",
         "x": "-35017.5",
         "y": "100.94",
         "z": "-20075.8"
